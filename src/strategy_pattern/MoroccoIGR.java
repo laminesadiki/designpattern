@@ -1,4 +1,4 @@
-package strategy;
+package strategy_pattern;
 
 public class MoroccoIGR implements IEmployeStrategy {
     private final float taux1 = 5;

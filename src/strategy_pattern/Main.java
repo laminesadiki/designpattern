@@ -1,4 +1,4 @@
-package strategy;
+package strategy_pattern;
 
 import java.util.Scanner;
 

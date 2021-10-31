@@ -1,4 +1,4 @@
-package strategy;
+package strategy_pattern;
 
 public class AlgeriaIGR implements IEmployeStrategy {
     private final float algeriaTaux= 35;
